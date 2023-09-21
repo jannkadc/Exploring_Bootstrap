@@ -1,0 +1,42 @@
+body {
+    box-sizing: border-box;
+    background-color: rgba(22, 18, 42, 0.958);
+    color: aliceblue;
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-item {
+    max-height: 90vh; 
+}
+
+#hero-text {
+    text-align: center;
+    background: rgb(14, 6, 32);
+    color: rgb(206, 155, 35);
+    padding: 50px;
+}
+
+.card-img-top {
+    height: 250px;
+    width: 400px;
+}
+
+.card-body {
+    padding: 30px;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+#contact {
+    width: 450px;
+}
+
+#about-img {
+    border-radius: 5px;
+    width: 50%;
+    min-width: 400px;
+    height: auto;
+}
